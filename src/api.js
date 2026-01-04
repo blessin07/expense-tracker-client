@@ -1,0 +1,1 @@
+export const baseUrl = "https://expense-tracker-server-an9k.onrender.com"
